@@ -3,7 +3,7 @@ practice on  how to use modal when building a  website
 
 ## 
 # Image
-![welcome interface.](asset/images/images/myproject.screenshot.PNG) "This is the cloned abercrombie website")
+![welcome interface.](images/E&D modal.PNG) "This is the cloned abercrombie website")
 
 # Built With
 * HTML
@@ -27,7 +27,7 @@ practice on  how to use modal when building a  website
 * https://twitter.com/hub_mic
 * https://www.linkedin.com/company/michub/
 
-# Live Demo (https://raw.githack.com/Esther94/myclasswork/main/index.html)
+# Live Demo (https://raw.githack.com/Esther94/modal-assignment/main/index.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions.
