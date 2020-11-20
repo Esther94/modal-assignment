@@ -3,7 +3,7 @@ practice on  how to use modal when building a  website
 
 ## 
 # Image
-![welcome interface.](images/E&D modal.PNG) "This is the cloned abercrombie website")
+![welcome interface.](images/modalshot.PNG) "This is the cloned abercrombie website")
 
 # Built With
 * HTML
