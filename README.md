@@ -8,6 +8,7 @@ practice on  how to use modal when building a  website
 # Built With
 * HTML
 * CSS
+* JavaScript
 
 # Author
 * 👩Esther Davies
