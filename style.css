@@ -27,8 +27,8 @@ body {
     border-radius: 25px; 
     align-content: center;
 }
- .button:hover{
-background: #333; 
+.button:hover{
+    background: #333; 
 }
 
 .bg-modal{
@@ -63,7 +63,6 @@ input{
     display: block;
     margin: 15px auto;
     padding: 0rem 3rem 0rem 3rem;
-
 }
 
 .close{
@@ -73,5 +72,4 @@ input{
     font-size: 42px;
     transform: rotate(45deg);
     cursor: pointer;
-
 }
